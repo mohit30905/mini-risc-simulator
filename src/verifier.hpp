@@ -3,7 +3,7 @@
 // ============================================================================
 #pragma once
 
-#include "isa.hpp"
+#include <cstdint>
 #include <vector>
 #include <string>
 

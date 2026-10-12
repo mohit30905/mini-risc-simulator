@@ -15,9 +15,7 @@
 #include "cpu.hpp"
 
 #include <iostream>
-#include <iomanip>
 #include <sstream>
-#include <cstring>
 
 namespace mini_risc {
 

@@ -13,3 +13,5 @@ out/
 # IDE / Editor
 .vscode/
 .idea/
+.clangd
+compile_commands.json

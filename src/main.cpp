@@ -8,7 +8,6 @@
 //   mini_risc test                    Run the full verification test suite
 //   mini_risc help                    Show usage information
 // ============================================================================
-#include "isa.hpp"
 #include "assembler.hpp"
 #include "decoder.hpp"
 #include "cpu.hpp"

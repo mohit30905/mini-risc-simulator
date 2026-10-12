@@ -7,7 +7,6 @@
 
 #include <fstream>
 #include <sstream>
-#include <iostream>
 #include <cctype>
 
 namespace mini_risc {
